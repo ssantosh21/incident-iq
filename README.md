@@ -563,12 +563,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 12+ years experience in AWS Serverless & Cloud Architecture
 - Expertise: Event-driven systems, AI/ML platforms, DevOps automation
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [https://linkedin.com/in/ssantosh21](https://linkedin.com/in/ssantosh21)
+- GitHub: [@ssantosh21](https://github.com/ssantosh21)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **OpenAI** - GPT-4o-mini for recommendations
 - **Pinecone** - Vector database for similarity search
@@ -581,9 +581,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions or want to discuss this project?
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: ssantosh21@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/ssantosh21](https://linkedin.com/in/ssantosh21)
+
 
 ---
 
