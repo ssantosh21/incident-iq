@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sentence-transformers
+pinecone
+python-dotenv
+openai
+pydantic
+boto3
+python-jose[cryptography]
+bcrypt
+python-multipart
